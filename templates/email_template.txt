@@ -1,0 +1,14 @@
+Subject: {subject}
+
+Hi {name},
+
+This is an automated reminder regarding:
+
+{message}
+
+Scheduled Date/Time: {date}
+
+If you have already resolved this or have questions, please feel free to reach out.
+
+Best regards,
+Automated Reminder System Team

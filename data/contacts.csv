@@ -1,0 +1,9 @@
+name,email
+Alice Johnson,alice.johnson@example.com
+Bob Smith,bob.smith@example.com
+Charlie Davis,charlie.davis@example.com
+Diana Prince,diana.prince@example.com
+Ethan Hunt,ethan.hunt@example.com
+,frank.nameless@example.com
+Grace Hopper,grace.hopper@example.com
+Invalid Contact,invalid-email-address-format

@@ -1,0 +1,8 @@
+id,recipient_email,subject,message,scheduled_time,frequency
+REM-001,alice.johnson@example.com,Project Milestone Review,Please remember to submit your weekly progress update by 5 PM.,2026-11-22 09:00:00,one-time
+REM-002,bob.smith@example.com,Upcoming Team Sync,Reminder: Sprint planning meeting starts tomorrow at 10:00 AM.,2026-11-22 15:30:00,daily
+REM-003,charlie.davis@example.com,Invoice Payment Reminder,Friendly reminder that invoice #INV-2026-001 is due in 3 days.,2026-11-23 14:00:00,one-time
+REM-004,diana.prince@example.com,System Maintenance Notice,Scheduled maintenance will occur this Saturday from 2 AM to 4 AM.,2026-11-24 11:30:00,weekly
+REM-005,ethan.hunt@example.com,Quarterly Goals Check-in,Don't forget to review and update your quarterly OKRs.,2026-11-25 15:00:00,one-time
+REM-006,frank.nameless@example.com,Account Profile Verification,Please update your profile contact details in the portal.,2026-11-22 12:00:00,one-time
+REM-007,invalid-email-address-format,System Test Reminder,This reminder tests rejection of malformed email addresses.,2026-11-22 10:00:00,one-time
